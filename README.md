@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- Frontend -->
-#### 🌸 Frontend
+
 <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" height="80"/>
 
 <!-- Backend -->
