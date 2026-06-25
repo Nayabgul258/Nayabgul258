@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi  I'm NAYAb GUL</h1>
+<h1 align="center">Hi  I'm NAYAB GUL</h1>
 <h3 align="center">💻 Full-Stack MERN Developer | Passionate about building scalable web applications</h3>
 
 ---
