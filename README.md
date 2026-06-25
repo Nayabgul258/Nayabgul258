@@ -12,7 +12,7 @@
 - 🤝 Collaborative team player with strong **problem-solving & debugging** skills  
 - 📚 Always exploring **new technologies** to enhance development efficiency  
 
-📍 **Hyderabad, Telangana, India**  
+📍 **Patna , Bihar, India**  
 📧 **nayabgul258@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/nayab-gul786/) | [Portfolio](https://nayabgul258.github.io/Portfolio/) | [LeetCode](https://leetcode.com/u/Nayabgul12/) |[github](https://github.com/Nayabgul258)
 <!-- Tech Stack Section -->
