@@ -6,11 +6,11 @@
 
 <!-- About Section -->
 ### 🚀 About Me
-- 🎯 Passionate and detail-oriented **Full-Stack Developer (MERN)**  
-- 💡 Skilled in **React.js, Node.js, Express.js, MongoDB**  
-- 🔍 Focused on writing **clean, maintainable, and scalable code**  
-- 🤝 Collaborative team player with strong **problem-solving & debugging** skills  
-- 📚 Always exploring **new technologies** to enhance development efficiency  
+. Passionate and detail-oriented **Full-Stack Developer (MERN)**  
+. Skilled in **React.js, Node.js, Express.js, MongoDB**  
+. Focused on writing **clean, maintainable, and scalable code**  
+. Collaborative team player with strong **problem-solving & debugging** skills  
+. 📚 Always exploring **new technologies** to enhance development efficiency  
 
 📍 **Patna , Bihar, India**  
 📧 **nayabgul258@gmail.com**  
