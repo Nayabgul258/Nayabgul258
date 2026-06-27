@@ -3,20 +3,21 @@
 <h3 align="center">💻 Full-Stack MERN Developer | Passionate about building scalable web applications</h3>
 
 ---
-
 <!-- About Section -->
-### 🚀 About Me
+###  About Me
 . Passionate and detail-oriented **Full-Stack Developer (MERN)**  
 . Skilled in **React.js, Node.js, Express.js, MongoDB**  
 . Focused on writing **clean, maintainable, and scalable code**  
 . Collaborative team player with strong **problem-solving & debugging** skills  
-. 📚 Always exploring **new technologies** to enhance development efficiency  
----
+.  Always exploring **new technologies** to enhance development efficiency  
+
 
 📍 **Patna , Bihar, India**  
 📧 **nayabgul258@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/nayab-gul786/) | [Portfolio](https://nayabgul258.github.io/Portfolio/) | [LeetCode](https://leetcode.com/u/Nayabgul12/) |[github](https://github.com/Nayabgul258)
+
 <!-- Tech Stack Section -->
+---
 ###  Tech Stack
 
 <div align="Left">
@@ -40,12 +41,13 @@
 </div>
 
 <!-- Soft Skills Section -->
+---
 ### 🧩 Soft Skills
-🌱 Continuous Learning  
-🧠 Problem Solving  
-💬 Communication  
-🤝 Teamwork  
-⚡ Adaptability  
+ Continuous Learning  
+ Problem Solving  
+ Communication  
+ Teamwork  
+ Adaptability  
 
 ---
 
