@@ -11,6 +11,7 @@
 . Focused on writing **clean, maintainable, and scalable code**  
 . Collaborative team player with strong **problem-solving & debugging** skills  
 . 📚 Always exploring **new technologies** to enhance development efficiency  
+---
 
 📍 **Patna , Bihar, India**  
 📧 **nayabgul258@gmail.com**  
