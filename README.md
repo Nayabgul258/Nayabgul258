@@ -37,8 +37,9 @@
 <!----Project---->
 
 ### Project
-Expenses-Tracker - [Live](https://expenses-tracker-xv2j.onrender.com) , [COde](https://github.com/Nayabgul258/Expenses-Tracker-) 
-Linkedin-Clone - [Live](https://mini-linkedin-backend-cvax.onrender.com) , [Code](https://github.com/Nayabgul258/mini-linkedin)
+Expenses-Tracker - [Live](https://expenses-tracker-xv2j.onrender.com) ,      [Code](https://github.com/Nayabgul258/Expenses-Tracker-) 
+
+Linkedin-Clone   - [Live](https://mini-linkedin-backend-cvax.onrender.com) , [Code](https://github.com/Nayabgul258/mini-linkedin)
 
 
 <!-- Soft Skills Section -->
