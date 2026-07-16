@@ -5,12 +5,7 @@
 ---
 <!-- About Section -->
 ###  About Me
-. Passionate and detail-oriented **Full-Stack Developer (MERN)**  
-. Skilled in **React.js, Node.js, Express.js, MongoDB**  
-. Focused on writing **clean, maintainable, and scalable code**  
-. Collaborative team player with strong **problem-solving & debugging** skills  
-.  Always exploring **new technologies** to enhance development efficiency  
-
+.I'm a MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world products using React.js, Node.js, Express.js, and MongoDB. Currently, I'm strengthening my Data Structures & Algorithms skills and looking for opportunities to contribute to impactful software projects.
 
 📍 **Patna , Bihar, India**  
 📧 **nayabgul258@gmail.com**  
@@ -39,6 +34,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" height="80"/>
 
 </div>
+<!----Project---->
+
+### Project
+
+Linkeind Clone - [Live](https://expenses-tracker-xv2j.onrender.com) , [Code](https://github.com/Nayabgul258/mini-linkedin)
 
 <!-- Soft Skills Section -->
 ---
